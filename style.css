@@ -30,7 +30,9 @@ body{
     background: var(--bg-color);
     color: var(--text-color);
 }
-
+.main{
+    overflow: hidden;
+}
 header{
     position: fixed;
     width: 100%;
@@ -655,8 +657,8 @@ section{
     .count li span{
             font-size: 16px;
     }
-        .home {
-            background-position: -1072px;
+    .home {
+        background-position: 66%;
     }
     .services-content {
         display: grid;
