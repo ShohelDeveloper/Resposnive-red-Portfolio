@@ -650,6 +650,7 @@ section{
     .count{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
+       height: 123px;
     }
     .count li{
         font-size: 13px;
@@ -712,6 +713,8 @@ section{
     .count{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
+        height: 123px;
+
     }
     .count li{
         font-size: 13px;
