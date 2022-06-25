@@ -629,7 +629,7 @@ section{
 
 @media (max-width:380px) {
     .home{
-        height: 80vh;
+        height: auto;
     }
     header{
         padding: 11px 2%;
@@ -691,7 +691,7 @@ section{
 
 @media (max-width:480px) {
     .home{
-        height: 80vh;
+        height: auto;
     }
     header{
         padding: 11px 2%;
